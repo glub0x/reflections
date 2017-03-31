@@ -3,3 +3,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area est une sorte de buffer pour préparer des commits. Ca permet de faire des commits avec plus de logique ?
+
+How can you use the staging area to make sure you have one commit per logical change?
+On peut selectionner quel fichier on ajoute a chaque commit. On peut ainsi n'ajouter que les fichier coherent a notre commit
