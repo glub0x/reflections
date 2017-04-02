@@ -6,3 +6,6 @@ staging area est une sorte de buffer pour préparer des commits. Ca permet de fa
 
 How can you use the staging area to make sure you have one commit per logical change?
 On peut selectionner quel fichier on ajoute a chaque commit. On peut ainsi n'ajouter que les fichier coherent a notre commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ca permet de faire des experiences/ des versions/ de refondre des parties importante du code
