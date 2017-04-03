@@ -15,3 +15,7 @@ Ca cré un historique avec les branches :)
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 les deux branches fusionnent, le code est joint entre les deux branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro : bcp plus rapide, moins de bug 
+cons : peut pet etre se tromper?
