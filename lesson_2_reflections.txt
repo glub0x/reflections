@@ -12,3 +12,6 @@ Ca permet de faire des experiences/ des versions/ de refondre des parties import
 
 How do the diagrams help you visualize the branch structure?
 Ca cré un historique avec les branches :) 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+les deux branches fusionnent, le code est joint entre les deux branches
