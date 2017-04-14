@@ -3,3 +3,8 @@ Working on sevral computador/ with others, also, for safety!
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 sinon comment travailler sur une version ancienne?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks : on prend le taf d'un autre et on en fait une base pour y ajouter ses modifs
+clones : on clone son propre taf
+branch : au sein d'un projet on ajoute des features, on change des choses plus profondes qu'un simple commit
