@@ -15,3 +15,8 @@ On peut savoir si le remote a avancé entre temps!
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Par mail.
 Plus simple, moins d'actions a faire. Tout est enregistré également. Plus laborieux a terme et impossible si on est nombreux. COmment faire des merge?
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Tester d'autres idées
+Permettre a d'autres de revisiter ses changements
+c'est plus laborieux
